@@ -82,7 +82,7 @@ Popup error messages 🚨
 Smooth transitions ⚡
 📸 Preview
 
-Add screenshot here:
+
 ---login----
 
 ![App Screenshot](images/login.png)
