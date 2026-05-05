@@ -85,15 +85,15 @@ Smooth transitions ⚡
 Add screenshot here:
 ---login----
 
-![App Screenshot](login.png)
+![App Screenshot](images/login.png)
 
 ---registration----
 
-![App Screenshot](registration.png)
+![App Screenshot](images/registration.png)
 
 ---submission----
 
-![App Screenshot](submission.png)
+![App Screenshot](images/submission.png)
 
 
 🌟 Future Improvements
