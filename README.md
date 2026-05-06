@@ -97,6 +97,7 @@ Smooth transitions ⚡
 
 
 🌟 Future Improvements
+
 🔥 MongoDB database integration
 🔥 Admin dashboard (view students)
 🔥 Edit/Delete student records
