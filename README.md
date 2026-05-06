@@ -105,7 +105,7 @@ Smooth transitions ⚡
 
 👨‍💻 Author
 
-Supriya Alisetti
+Supriya Alisetty
 
 📜 License
 
